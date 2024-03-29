@@ -14,7 +14,6 @@ Para isso, utilizamos algumas das mais recentes Inteligências Artificiais (IAs)
 
 > [!TIP]
 > Caso queira reproduzir este projeto, você terá os seguintes pré-requisitos:
-> - Vontade de Aprender 😉
 > - Instalação da **[JDK 21](https://www.oracle.com/br/java/technologies/downloads/#java21)** (versão LTS do Java na data das lives);
 > - Instalação do **[IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download)** ou a IDE de sua preferência (Eclipse, VSCode etc);
 > - [Opcional] Conta na AWS (caso queira publicar a sua API REST na Nuvem usando o [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk);
